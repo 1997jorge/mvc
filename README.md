@@ -1,9 +1,9 @@
 ### ASP.NET Core MVC
 Um aplicativo que gerencia e exibe dados de filmes.
 
-![alt text](print.png)
+![alt text](/Screenshot/print.png)
 
-![alt text](print2.png)
+![alt text](/Screenshot/print2.png)
 
 Esse aplicativo seguiu o padrão de arquitetura MVC (Model-View-Controller).
 
