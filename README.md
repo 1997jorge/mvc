@@ -5,6 +5,8 @@ Um aplicativo que gerencia e exibe dados de filmes.
 
 ![alt text](/Screenshot/print2.png)
 
+![alt text](/Screenshot/print3.png)
+
 Esse aplicativo seguiu o padrão de arquitetura MVC (Model-View-Controller).
 
 ### O que é MVC?
